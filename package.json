@@ -1,0 +1,24 @@
+{
+  "name": "android-camera-permission",
+  "version": "1.0.0",
+  "description": "Cordova Android Camera Permission Plugin",
+  "cordova": {
+    "id": "android-camera-permission",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/campers/android-camera-permission"
+  },
+  "keywords": [
+    "cordova",
+    "media",
+    "android",
+    "camera",
+    "permission"
+  ],
+  "author": "Daniel Campagnoli",
+  "license": "Apache 2.0"
+}

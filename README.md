@@ -21,7 +21,7 @@
 
 This plugin adds the android.permission.CAMERA permission to the Android platform.
 
-The needs for this plugin arose when developing real-time video chat using WebRTC.
+The needs for this plugin arose when developing real-time video chat using Twilio WebRTC for my [Ionic app](http://engineerstoolbox.com/tinder-clone-source-code/) which uses Parse on the backend.
 
 ## Installation
 
